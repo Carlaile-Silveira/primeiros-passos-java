@@ -1,12 +1,18 @@
-# Primeiros Passos em Java SE
+# ☕ Primeiros Passos em Java SE
 
-Repositório dedicado ao estudo da linguagem Java, focado em lógica de programação e POO.
+Este repositório contém meus projetos de consolidação em Java, desenvolvidos durante a minha formação intensiva. Foco total em lógica pura, utilizando **Sublime Text** e **Terminal** para domínio da sintaxe.
 
-## 🛒 Projeto 1: Sistema de Checkout
-Simulador de caixa de mercado que aplica conceitos de:
-- Loops (`while`)
-- Condicionais (`if/else`)
-- Acumuladores de valores
-- Regras de negócio (Desconto de 10% para compras acima de R$ 100)
+## 🛠️ Projetos Implementados
 
-**Ferramentas utilizadas:** Sublime Text e Terminal.
+### 1. Sistema de Checkout de Mercado 🛒
+Simulador de caixa que aplica conceitos de fluxo de compra.
+- **Conceitos:** Loops (`while`), acumuladores e condicionais.
+- **Regra de Negócio:** Desconto automático de 10% para compras acima de R$ 100.
+
+### 2. Simulador de Caixa Eletrônico (ATM) 🏦
+Aplicação interativa que gerencia o estado de um saldo bancário.
+- **Conceitos:** Menu interativo com `switch-case`, persistência de dados em variáveis e loops com sentinela.
+- **Regra de Negócio:** Validação de saldo insuficiente e bloqueio de depósitos/saques negativos.
+
+---
+*Estudos baseados na trilha de Java da Udemy.*
